@@ -117,7 +117,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		// draw some text centered in the client area
 		RECT rect;
 		GetClientRect(hwnd, &rect);
-		DrawText(hdc, TEXT("Hello, Windows!"), -1, &rect, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
+		DrawText(hdc, TEXT("Fuck you Windows!"), -1, &rect, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
 
 		EndPaint(hwnd, &ps);
 		return S_OK;
