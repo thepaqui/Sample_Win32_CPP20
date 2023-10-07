@@ -1,7 +1,7 @@
 # Sample_Win32_CPP20
 
 ![demo](https://github.com/thepaqui/Sample_Win32_CPP20/assets/117783405/bad329d4-d7fa-4531-a288-dcf0f5e085d0)
-
+(Colors change when you press the space bar)
 
 This is a sample code in C++20, using the Win32 API.  
 I made this in order to familiarize myself with this API.  
