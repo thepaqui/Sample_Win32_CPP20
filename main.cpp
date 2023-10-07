@@ -61,7 +61,7 @@ int WINAPI	WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR szCmdLine,
 	// If it fails, prints error box and returns failure.
 	if (RegisterClassExW(&wc) == 0)
 	{
-		MessageBoxW(NULL, L"Can't Register the Window Class!", ClassName, MB_OK | MB_ICONERROR);
+		MessageBoxW(NULL, L"Can't register the main Class!", ClassName, MB_OK | MB_ICONERROR);
 		return E_FAIL;
 	}
 
@@ -82,7 +82,7 @@ int WINAPI	WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR szCmdLine,
 	// check if the window was created, exit if fail
 	if (hwnd == NULL)
 	{
-		MessageBoxW(NULL, L"Unable to Create the Main Window!", WindowName, MB_OK | MB_ICONERROR);
+		MessageBoxW(NULL, L"Unable to create the main window!", WindowName, MB_OK | MB_ICONERROR);
 		return E_FAIL;
 	}
 
