@@ -1,4 +1,4 @@
-# winGUI
+# Sample_Win32_CPP20
 ![demo](https://github.com/thepaqui/winGUI/assets/117783405/6814ab43-d988-473f-852d-ef2de2c38690)
 
 This is a sample code in C++20, using the Win32 API.  
