@@ -7,5 +7,5 @@ I made this in order to familiarize myself with this API.
 Thus, it contains a lot of comments overexplaining lots of stuff.  
 Feel free to consult or reuse this however you want, no need to give credits.
 
-If you have any questions about Win32, Microsoft Learn is the best website for documentation about it.  
+If you have any questions about Win32, [Microsoft Learn](https://learn.microsoft.com/) is the best website for documentation about it.  
 [This tutorial](https://learn.microsoft.com/fr-fr/windows/win32/learnwin32/learn-to-program-for-windows) in particular will help get started with all the basics.
