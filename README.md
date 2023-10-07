@@ -8,4 +8,4 @@ Thus, it contains a lot of comments overexplaining lots of stuff.
 Feel free to consult or reuse this however you want, no need to give credits.
 
 If you have any questions about Win32, [Microsoft Learn](https://learn.microsoft.com/) is the best website for documentation about it.  
-[This tutorial](https://learn.microsoft.com/fr-fr/windows/win32/learnwin32/learn-to-program-for-windows) in particular will help get started with all the basics.
+[This tutorial](https://learn.microsoft.com/fr-fr/windows/win32/learnwin32/learn-to-program-for-windows) in particular will help you get started with all the basics.
