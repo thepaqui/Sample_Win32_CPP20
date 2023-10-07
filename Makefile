@@ -14,9 +14,9 @@ NAME= winGUI
 
 CC= c++
 
-CCFLAGS=	-std=c++20 #-Wall -Wextra -Werror
+CCFLAGS=	-std=c++20 -mwindows
 
-SRCS=	test.cpp
+SRCS=	main.cpp
 
 OBJS= $(SRCS:.cpp=.o)
 
